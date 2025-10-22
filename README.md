@@ -18,3 +18,8 @@ A security analytics tool for analyzing BIMI (Brand Indicators for Message Ident
 - Java 21 or higher
 - Maven 3.6+
 - Database with BIMI certificate data (PostgreSQL, MySQL, etc.)
+
+## Example result:
+
+- Run on BIMI CT certificate data (non-expired precertificates) 16-Oct-25 08:48:43 UTC
+- https://gist.github.com/bhushan5640/7220572da78fe7f444989d45e9ae6a65
